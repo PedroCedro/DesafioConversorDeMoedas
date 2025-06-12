@@ -1,8 +1,5 @@
 # DesafioConversorDeMoedas
 Desafio Alura ONE conversor de moedas
-
-# Conversor de Moedas
-
 Projeto simples em Java que converte valores entre várias moedas usando a API ExchangeRate.
 
 ## Funcionalidades
